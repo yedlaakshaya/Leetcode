@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yedlaakshaya/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yedlaakshaya/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/yedlaakshaya/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/yedlaakshaya/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/yedlaakshaya/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/yedlaakshaya/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/yedlaakshaya/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/yedlaakshaya/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
